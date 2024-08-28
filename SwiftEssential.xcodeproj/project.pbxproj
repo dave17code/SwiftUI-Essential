@@ -11,6 +11,7 @@
 		AF9E58302C7EA492005AEEE2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9E582F2C7EA492005AEEE2 /* ContentView.swift */; };
 		AF9E58322C7EA494005AEEE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF9E58312C7EA494005AEEE2 /* Assets.xcassets */; };
 		AF9E58352C7EA494005AEEE2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF9E58342C7EA494005AEEE2 /* Preview Assets.xcassets */; };
+		AF9E583C2C7EA5E1005AEEE2 /* AddingText.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9E583B2C7EA5E1005AEEE2 /* AddingText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AF9E582F2C7EA492005AEEE2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AF9E58312C7EA494005AEEE2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF9E58342C7EA494005AEEE2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AF9E583B2C7EA5E1005AEEE2 /* AddingText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				AF9E582F2C7EA492005AEEE2 /* ContentView.swift */,
 				AF9E58312C7EA494005AEEE2 /* Assets.xcassets */,
 				AF9E58332C7EA494005AEEE2 /* Preview Content */,
+				AF9E583B2C7EA5E1005AEEE2 /* AddingText.swift */,
 			);
 			path = SwiftEssential;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF9E583C2C7EA5E1005AEEE2 /* AddingText.swift in Sources */,
 				AF9E58302C7EA492005AEEE2 /* ContentView.swift in Sources */,
 				AF9E582E2C7EA492005AEEE2 /* SwiftEssentialApp.swift in Sources */,
 			);
