@@ -20,10 +20,11 @@ struct InitAndEnum: View {
     
     init(country: String, brand: CarBrand) {
         self.country = country
-        if country == "Korea" {
+        switch brand {
+        case .Hyundai:
             self.title = "Hyundai"
             self.backgroundColor = Color.yellow
-        } else {
+        case .Tesla:
             self.title = "Tesla"
             self.backgroundColor = Color.pink
         }
