@@ -13,6 +13,7 @@
 		AF26C80B2C7ED32400C3B04D /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF26C80A2C7ED32400C3B04D /* Images.swift */; };
 		AF4144CD2C8064BE00DDC875 /* Spacers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4144CC2C8064BE00DDC875 /* Spacers.swift */; };
 		AF4144CF2C80684400DDC875 /* Discussion1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4144CE2C80684400DDC875 /* Discussion1.swift */; };
+		AF4144D12C8073DF00DDC875 /* InitAndEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4144D02C8073DF00DDC875 /* InitAndEnum.swift */; };
 		AF7400492C7F358B00986F5D /* Symbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7400482C7F358B00986F5D /* Symbols.swift */; };
 		AF74004B2C7F440900986F5D /* Frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF74004A2C7F440900986F5D /* Frame.swift */; };
 		AF9E582E2C7EA492005AEEE2 /* SwiftEssentialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9E582D2C7EA492005AEEE2 /* SwiftEssentialApp.swift */; };
@@ -32,6 +33,7 @@
 		AF26C80A2C7ED32400C3B04D /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
 		AF4144CC2C8064BE00DDC875 /* Spacers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacers.swift; sourceTree = "<group>"; };
 		AF4144CE2C80684400DDC875 /* Discussion1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Discussion1.swift; sourceTree = "<group>"; };
+		AF4144D02C8073DF00DDC875 /* InitAndEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitAndEnum.swift; sourceTree = "<group>"; };
 		AF7400482C7F358B00986F5D /* Symbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Symbols.swift; sourceTree = "<group>"; };
 		AF74004A2C7F440900986F5D /* Frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame.swift; sourceTree = "<group>"; };
 		AF9E582A2C7EA492005AEEE2 /* SwiftEssential.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftEssential.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -89,6 +91,7 @@
 				AFF51D352C80171D00629DDE /* Padding.swift */,
 				AF4144CC2C8064BE00DDC875 /* Spacers.swift */,
 				AF4144CE2C80684400DDC875 /* Discussion1.swift */,
+				AF4144D02C8073DF00DDC875 /* InitAndEnum.swift */,
 				AF9E58312C7EA494005AEEE2 /* Assets.xcassets */,
 				AF9E58332C7EA494005AEEE2 /* Preview Content */,
 			);
@@ -175,6 +178,7 @@
 			files = (
 				AF74004B2C7F440900986F5D /* Frame.swift in Sources */,
 				AF26C80B2C7ED32400C3B04D /* Images.swift in Sources */,
+				AF4144D12C8073DF00DDC875 /* InitAndEnum.swift in Sources */,
 				AFF51D342C800F7E00629DDE /* Stacks.swift in Sources */,
 				AF4144CF2C80684400DDC875 /* Discussion1.swift in Sources */,
 				AFF51D322C7FFCFA00629DDE /* Overlay.swift in Sources */,
