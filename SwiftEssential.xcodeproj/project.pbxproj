@@ -19,6 +19,7 @@
 		AF9E58352C7EA494005AEEE2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF9E58342C7EA494005AEEE2 /* Preview Assets.xcassets */; };
 		AF9E583C2C7EA5E1005AEEE2 /* AddingText.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9E583B2C7EA5E1005AEEE2 /* AddingText.swift */; };
 		AFF51D322C7FFCFA00629DDE /* Overlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF51D312C7FFCFA00629DDE /* Overlay.swift */; };
+		AFF51D342C800F7E00629DDE /* Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF51D332C800F7E00629DDE /* Stacks.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		AF9E58342C7EA494005AEEE2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AF9E583B2C7EA5E1005AEEE2 /* AddingText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingText.swift; sourceTree = "<group>"; };
 		AFF51D312C7FFCFA00629DDE /* Overlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Overlay.swift; sourceTree = "<group>"; };
+		AFF51D332C800F7E00629DDE /* Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stacks.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				AF7400482C7F358B00986F5D /* Symbols.swift */,
 				AF74004A2C7F440900986F5D /* Frame.swift */,
 				AFF51D312C7FFCFA00629DDE /* Overlay.swift */,
+				AFF51D332C800F7E00629DDE /* Stacks.swift */,
 				AF9E58312C7EA494005AEEE2 /* Assets.xcassets */,
 				AF9E58332C7EA494005AEEE2 /* Preview Content */,
 			);
@@ -163,6 +166,7 @@
 			files = (
 				AF74004B2C7F440900986F5D /* Frame.swift in Sources */,
 				AF26C80B2C7ED32400C3B04D /* Images.swift in Sources */,
+				AFF51D342C800F7E00629DDE /* Stacks.swift in Sources */,
 				AFF51D322C7FFCFA00629DDE /* Overlay.swift in Sources */,
 				AF7400492C7F358B00986F5D /* Symbols.swift in Sources */,
 				AF9E583C2C7EA5E1005AEEE2 /* AddingText.swift in Sources */,
