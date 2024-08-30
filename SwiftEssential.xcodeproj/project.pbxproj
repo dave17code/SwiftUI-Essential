@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF24A1F42C81B83D00A808FB /* GridLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF24A1F32C81B83D00A808FB /* GridLayout.swift */; };
 		AF26C8052C7EB40700C3B04D /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF26C8042C7EB40700C3B04D /* Shapes.swift */; };
 		AF26C8072C7EBDDA00C3B04D /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF26C8062C7EBDDA00C3B04D /* Colors.swift */; };
 		AF26C8092C7EC68200C3B04D /* Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF26C8082C7EC68200C3B04D /* Gradient.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AF24A1F32C81B83D00A808FB /* GridLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridLayout.swift; sourceTree = "<group>"; };
 		AF26C8042C7EB40700C3B04D /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
 		AF26C8062C7EBDDA00C3B04D /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		AF26C8082C7EC68200C3B04D /* Gradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradient.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				AFE248DF2C8157780037F264 /* IgnoreSafeAreaLayout.swift */,
 				AFE248E12C8161340037F264 /* LazyStacks.swift */,
 				AFE248E32C8169E20037F264 /* Discussion2.swift */,
+				AF24A1F32C81B83D00A808FB /* GridLayout.swift */,
 				AF9E58312C7EA494005AEEE2 /* Assets.xcassets */,
 				AF9E58332C7EA494005AEEE2 /* Preview Content */,
 			);
@@ -203,6 +206,7 @@
 				AF7400492C7F358B00986F5D /* Symbols.swift in Sources */,
 				AF9E583C2C7EA5E1005AEEE2 /* AddingText.swift in Sources */,
 				AF26C8072C7EBDDA00C3B04D /* Colors.swift in Sources */,
+				AF24A1F42C81B83D00A808FB /* GridLayout.swift in Sources */,
 				AF9E58302C7EA492005AEEE2 /* ContentView.swift in Sources */,
 				AF9E582E2C7EA492005AEEE2 /* SwiftEssentialApp.swift in Sources */,
 				AF26C8052C7EB40700C3B04D /* Shapes.swift in Sources */,
