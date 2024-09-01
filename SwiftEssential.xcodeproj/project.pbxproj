@@ -32,6 +32,7 @@
 		AFF51D322C7FFCFA00629DDE /* Overlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF51D312C7FFCFA00629DDE /* Overlay.swift */; };
 		AFF51D342C800F7E00629DDE /* Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF51D332C800F7E00629DDE /* Stacks.swift */; };
 		AFF51D362C80171D00629DDE /* Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF51D352C80171D00629DDE /* Padding.swift */; };
+		DAA61C1D2C8476D0006D0A64 /* ExtractSubview.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAA61C1C2C8476D0006D0A64 /* ExtractSubview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		AFF51D312C7FFCFA00629DDE /* Overlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Overlay.swift; sourceTree = "<group>"; };
 		AFF51D332C800F7E00629DDE /* Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stacks.swift; sourceTree = "<group>"; };
 		AFF51D352C80171D00629DDE /* Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Padding.swift; sourceTree = "<group>"; };
+		DAA61C1C2C8476D0006D0A64 /* ExtractSubview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				AF24A1F32C81B83D00A808FB /* GridLayout.swift */,
 				AF24A1F52C81D4E000A808FB /* Buttons.swift */,
 				AF24A1F72C81F5CF00A808FB /* StateProperty.swift */,
+				DAA61C1C2C8476D0006D0A64 /* ExtractSubview.swift */,
 				AF9E58312C7EA494005AEEE2 /* Assets.xcassets */,
 				AF9E58332C7EA494005AEEE2 /* Preview Content */,
 			);
@@ -207,6 +210,7 @@
 				AFE248E22C8161340037F264 /* LazyStacks.swift in Sources */,
 				AF26C80B2C7ED32400C3B04D /* Images.swift in Sources */,
 				AF4144D12C8073DF00DDC875 /* InitAndEnum.swift in Sources */,
+				DAA61C1D2C8476D0006D0A64 /* ExtractSubview.swift in Sources */,
 				AFF51D342C800F7E00629DDE /* Stacks.swift in Sources */,
 				AF4144CF2C80684400DDC875 /* Discussion1.swift in Sources */,
 				AF24A1F82C81F5CF00A808FB /* StateProperty.swift in Sources */,
