@@ -33,6 +33,7 @@
 		AFF51D342C800F7E00629DDE /* Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF51D332C800F7E00629DDE /* Stacks.swift */; };
 		AFF51D362C80171D00629DDE /* Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF51D352C80171D00629DDE /* Padding.swift */; };
 		DAA61C1D2C8476D0006D0A64 /* ExtractSubview.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAA61C1C2C8476D0006D0A64 /* ExtractSubview.swift */; };
+		DAA61C1F2C847CB2006D0A64 /* Conditional.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAA61C1E2C847CB2006D0A64 /* Conditional.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		AFF51D332C800F7E00629DDE /* Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stacks.swift; sourceTree = "<group>"; };
 		AFF51D352C80171D00629DDE /* Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Padding.swift; sourceTree = "<group>"; };
 		DAA61C1C2C8476D0006D0A64 /* ExtractSubview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubview.swift; sourceTree = "<group>"; };
+		DAA61C1E2C847CB2006D0A64 /* Conditional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conditional.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				AF24A1F52C81D4E000A808FB /* Buttons.swift */,
 				AF24A1F72C81F5CF00A808FB /* StateProperty.swift */,
 				DAA61C1C2C8476D0006D0A64 /* ExtractSubview.swift */,
+				DAA61C1E2C847CB2006D0A64 /* Conditional.swift */,
 				AF9E58312C7EA494005AEEE2 /* Assets.xcassets */,
 				AF9E58332C7EA494005AEEE2 /* Preview Content */,
 			);
@@ -220,6 +223,7 @@
 				AF26C8072C7EBDDA00C3B04D /* Colors.swift in Sources */,
 				AF24A1F42C81B83D00A808FB /* GridLayout.swift in Sources */,
 				AF9E58302C7EA492005AEEE2 /* ContentView.swift in Sources */,
+				DAA61C1F2C847CB2006D0A64 /* Conditional.swift in Sources */,
 				AF9E582E2C7EA492005AEEE2 /* SwiftEssentialApp.swift in Sources */,
 				AF26C8052C7EB40700C3B04D /* Shapes.swift in Sources */,
 				AF26C8092C7EC68200C3B04D /* Gradient.swift in Sources */,
