@@ -10,15 +10,15 @@ import SwiftUI
 struct Conditional: View {
     @State var userLogin = false
     @State var userName = "Ryan"
-    @State var following = false
+    @State var following = true
     
     var body: some View {
-        if userName == "Ryan" {
-            Color.yellow
-        } else {
-            Color.pink
-        }
-        
+//        if userName == "Ryan" {
+//            Color.yellow
+//        } else {
+//            Color.pink
+//        }
+    
         if following {
             Text("Following")
                 .fontWeight(.semibold)
