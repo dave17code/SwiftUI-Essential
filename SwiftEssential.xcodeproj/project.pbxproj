@@ -21,6 +21,7 @@
 		AF74004B2C7F440900986F5D /* Frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF74004A2C7F440900986F5D /* Frame.swift */; };
 		AF8CD8452C85B9C300C3C46B /* Conditional2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8CD8442C85B9C300C3C46B /* Conditional2.swift */; };
 		AF8CD8472C85C39100C3C46B /* BindingProperty.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8CD8462C85C39100C3C46B /* BindingProperty.swift */; };
+		AF8CD8492C85E76600C3C46B /* ListLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8CD8482C85E76600C3C46B /* ListLayout.swift */; };
 		AF9E582E2C7EA492005AEEE2 /* SwiftEssentialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9E582D2C7EA492005AEEE2 /* SwiftEssentialApp.swift */; };
 		AF9E58302C7EA492005AEEE2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9E582F2C7EA492005AEEE2 /* ContentView.swift */; };
 		AF9E58322C7EA494005AEEE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF9E58312C7EA494005AEEE2 /* Assets.xcassets */; };
@@ -53,6 +54,7 @@
 		AF74004A2C7F440900986F5D /* Frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame.swift; sourceTree = "<group>"; };
 		AF8CD8442C85B9C300C3C46B /* Conditional2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conditional2.swift; sourceTree = "<group>"; };
 		AF8CD8462C85C39100C3C46B /* BindingProperty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingProperty.swift; sourceTree = "<group>"; };
+		AF8CD8482C85E76600C3C46B /* ListLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListLayout.swift; sourceTree = "<group>"; };
 		AF9E582A2C7EA492005AEEE2 /* SwiftEssential.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftEssential.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF9E582D2C7EA492005AEEE2 /* SwiftEssentialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftEssentialApp.swift; sourceTree = "<group>"; };
 		AF9E582F2C7EA492005AEEE2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 				DAA61C1E2C847CB2006D0A64 /* Conditional.swift */,
 				AF8CD8442C85B9C300C3C46B /* Conditional2.swift */,
 				AF8CD8462C85C39100C3C46B /* BindingProperty.swift */,
+				AF8CD8482C85E76600C3C46B /* ListLayout.swift */,
 				AF9E58312C7EA494005AEEE2 /* Assets.xcassets */,
 				AF9E58332C7EA494005AEEE2 /* Preview Content */,
 			);
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF74004B2C7F440900986F5D /* Frame.swift in Sources */,
+				AF8CD8492C85E76600C3C46B /* ListLayout.swift in Sources */,
 				AFE248E02C8157780037F264 /* IgnoreSafeAreaLayout.swift in Sources */,
 				AFE248E42C8169E20037F264 /* Discussion2.swift in Sources */,
 				AF8CD8472C85C39100C3C46B /* BindingProperty.swift in Sources */,
