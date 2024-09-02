@@ -19,6 +19,7 @@
 		AF4144D12C8073DF00DDC875 /* InitAndEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4144D02C8073DF00DDC875 /* InitAndEnum.swift */; };
 		AF7400492C7F358B00986F5D /* Symbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7400482C7F358B00986F5D /* Symbols.swift */; };
 		AF74004B2C7F440900986F5D /* Frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF74004A2C7F440900986F5D /* Frame.swift */; };
+		AF8CD8452C85B9C300C3C46B /* Conditional2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8CD8442C85B9C300C3C46B /* Conditional2.swift */; };
 		AF9E582E2C7EA492005AEEE2 /* SwiftEssentialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9E582D2C7EA492005AEEE2 /* SwiftEssentialApp.swift */; };
 		AF9E58302C7EA492005AEEE2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9E582F2C7EA492005AEEE2 /* ContentView.swift */; };
 		AF9E58322C7EA494005AEEE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF9E58312C7EA494005AEEE2 /* Assets.xcassets */; };
@@ -49,6 +50,7 @@
 		AF4144D02C8073DF00DDC875 /* InitAndEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitAndEnum.swift; sourceTree = "<group>"; };
 		AF7400482C7F358B00986F5D /* Symbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Symbols.swift; sourceTree = "<group>"; };
 		AF74004A2C7F440900986F5D /* Frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame.swift; sourceTree = "<group>"; };
+		AF8CD8442C85B9C300C3C46B /* Conditional2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conditional2.swift; sourceTree = "<group>"; };
 		AF9E582A2C7EA492005AEEE2 /* SwiftEssential.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftEssential.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF9E582D2C7EA492005AEEE2 /* SwiftEssentialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftEssentialApp.swift; sourceTree = "<group>"; };
 		AF9E582F2C7EA492005AEEE2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				AF24A1F72C81F5CF00A808FB /* StateProperty.swift */,
 				DAA61C1C2C8476D0006D0A64 /* ExtractSubview.swift */,
 				DAA61C1E2C847CB2006D0A64 /* Conditional.swift */,
+				AF8CD8442C85B9C300C3C46B /* Conditional2.swift */,
 				AF9E58312C7EA494005AEEE2 /* Assets.xcassets */,
 				AF9E58332C7EA494005AEEE2 /* Preview Content */,
 			);
@@ -211,6 +214,7 @@
 				AFE248E42C8169E20037F264 /* Discussion2.swift in Sources */,
 				AF24A1F62C81D4E000A808FB /* Buttons.swift in Sources */,
 				AFE248E22C8161340037F264 /* LazyStacks.swift in Sources */,
+				AF8CD8452C85B9C300C3C46B /* Conditional2.swift in Sources */,
 				AF26C80B2C7ED32400C3B04D /* Images.swift in Sources */,
 				AF4144D12C8073DF00DDC875 /* InitAndEnum.swift in Sources */,
 				DAA61C1D2C8476D0006D0A64 /* ExtractSubview.swift in Sources */,
