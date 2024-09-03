@@ -20,7 +20,7 @@ struct ListLayout: View {
     
     var body: some View {
         List {
-            Section("Car Brands", isExpanded: $showSectionArrow)  {
+            Section("Car Brands", isExpanded: $showSectionArrow) {
                 ForEach(cars, id: \.self) { car in
                     Text("\(car)")
                 }
